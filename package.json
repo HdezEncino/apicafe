@@ -14,7 +14,7 @@
     "cors",
     "nodemon."
   ],
-  "author": "Dany Cambrano",
+  "author": "Aylin Janely",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
